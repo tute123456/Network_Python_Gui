@@ -48,7 +48,7 @@ def dbping(dbip):
          #print(fo.closed)
          #that was a check for test , i should just only close the file
          #if fo.closed==False:
-            fo.close()
+         fo.close()
          #   print(fo.closed)
          #else:
          #   pass    
